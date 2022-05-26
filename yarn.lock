@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@peippo/swrev@^1.10.5":
+  "integrity" "sha512-Iu6D6yFUca/8NNQS+QSjvMkRJLhcJHt/6onJ4S11uRnQn6nfSxjU4mVa7u6/sB8YDKBhbDz+uJ4awLUt/2ubsA=="
+  "resolved" "https://registry.npmjs.org/@peippo/swrev/-/swrev-1.10.5.tgz"
+  "version" "1.10.5"
+  dependencies:
+    "@ungap/event-target" "^0.2.2"
+
 "@ungap/event-target@^0.2.2":
   "integrity" "sha512-7Bz0qdvxNGV9n0f+xcMKU7wsEfK6PNzo8IdAcOiBgMNyCuU0Mk9dv0Hbd/Kgr+MFFfn4xLHFbuOt820egT5qEA=="
   "resolved" "https://registry.npmjs.org/@ungap/event-target/-/event-target-0.2.3.tgz"
@@ -113,13 +120,6 @@
   "integrity" "sha512-6AWftH2eqqKLYH1HvKpuUWe8OfjflarhegN57P/Cqwc2Rb2F5oIdDtANU/jMscyZMzG0v6nTQox0siZR9cmRVQ=="
   "resolved" "https://registry.npmjs.org/svelte/-/svelte-3.45.0.tgz"
   "version" "3.45.0"
-
-"swrev@^1.10.5":
-  "integrity" "sha512-Zj7yfVpqUElWgBGXL8saAREgf8JGpSRkxCf0g+9z13gBkX6cJBUuL6ctUM5wFVBCQ7vdoGUz8+x6FrxvRIfO+A=="
-  "resolved" "https://registry.npmjs.org/swrev/-/swrev-1.10.5.tgz"
-  "version" "1.10.5"
-  dependencies:
-    "@ungap/event-target" "^0.2.2"
 
 "typescript@^4.5.4":
   "integrity" "sha512-VgYs2A2QIRuGphtzFV7aQJduJ2gyfTljngLzjpfW9FoYZF6xuw1W0vW9ghCKLfcWrCFxK81CSGRAvS1pn4fIUg=="

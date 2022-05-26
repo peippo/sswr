@@ -1,5 +1,5 @@
-import { SWR } from 'swrev'
-import type { SWRKey, SWROptions, SWRMutateOptions, SWRRevalidateOptions, CacheClearOptions } from 'swrev'
+import { SWR } from '@peippo/swrev'
+import type { SWRKey, SWROptions, SWRMutateOptions, SWRRevalidateOptions, CacheClearOptions } from '@peippo/swrev'
 import { onDestroy, beforeUpdate } from 'svelte'
 import { writable, derived } from 'svelte/store'
 
